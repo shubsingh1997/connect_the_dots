@@ -79,7 +79,7 @@ When you want to create a crosslink, start typing the title of an issue or pull 
   TBD-step-2-notes.
 -->
 
-<details id=3 open>
+<details id=2 open>
 <summary><h2>Step 2: Find a commit in history</h2></summary>
 
 An important part of version control is the ability to look into the past. By using `git blame`, and finding the story behind a commit, we're able to do more than _blame_ people for code. We're able to see the story around why a commit was made. What is the associated pull request? Who approved the pull request? What tests were run on that commit before it was merged?
@@ -109,7 +109,7 @@ A SHA is a reference to a specific object. In this case, it's a reference to a c
 </details>
 
 <!--
-  <<< Author notes: Step 3 >>>
+  <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
   TBD-step-3-notes.
